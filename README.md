@@ -6,6 +6,7 @@ Repository created with following the Learning Path [Explore space with Python a
 
 ## Modules
 - [Plan a Moon Mission by using Python Pandas](./SampleReturn/sample-return.ipynb)
+- [Predict meteor showers by using Python and Visual Studio Code](./MeteorShowers/meteor-showers.ipynb)
 
 ## Useful Links
 - [Setup Data Science Environment](https://code.visualstudio.com/docs/python/data-science-tutorial)
